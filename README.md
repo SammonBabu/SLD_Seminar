@@ -1,6 +1,6 @@
-# SLD_Seminar
-Sign Language Detection using LSTM Deep  Learning Model (Action Recognition with Python )
- This project was created intending to use 
+# Sign Language Detection using LSTM Deep  Learning Model (Action Recognition with Python )
+
+This project was created intending to use 
 computer vision to be able to recognize the Sign Language in 
 real time with high accuracy. The reason for such a project is 
 to help diminish the gap between those who can hear well and 
